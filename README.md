@@ -19,3 +19,11 @@ Agradecimentos às seguintes pessoas que contribuíram para este projeto:
 * [@eduardodiasme](https://github.com/eduardodiasme)
 * [@mathias](https://github.com/mathias)
 * [@diegoxter](https://github.com/diegoxter)
+
+## Contact
+
+Se você quiser nos contatar, mande um email para <contato@sensedev.pro>.
+
+## License
+
+Este projeto usa a seguinte licença: [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
