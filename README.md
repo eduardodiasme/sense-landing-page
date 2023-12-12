@@ -1,8 +1,21 @@
-# React + Vite
+# Sense Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Pré-requisitos
 
-Currently, two official plugins are available:
+- Última versão do NodeJS.
+- Sistema operacional: Windows, Linux ou macOS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contribuição
+
+1. Faça um fork deste repositório;
+2. Dentro da pasta principal do repositório, rode 'npm install';
+3. Após concluir o 'npm install', rode 'npm run dev';
+4. Faça suas alterações e as comite: `git commit -m '<mensagem_commit>'`;
+
+## Autores
+
+Agradecimentos às seguintes pessoas que contribuíram para este projeto:
+
+* [@eduardodiasme](https://github.com/eduardodiasme)
+* [@mathias](https://github.com/mathias)
+* [@diegoxter](https://github.com/diegoxter)
