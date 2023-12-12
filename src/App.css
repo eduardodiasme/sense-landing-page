@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+nav li {
+  list-style: none;
+}
+
+nav li {
+  margin-right: 2rem;
+}
