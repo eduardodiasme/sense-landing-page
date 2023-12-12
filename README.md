@@ -17,7 +17,7 @@
 Agradecimentos às seguintes pessoas que contribuíram para este projeto:
 
 * [@eduardodiasme](https://github.com/eduardodiasme)
-* [@mathias](https://github.com/mathias)
+* [@araubrito](https://github.com/araubrito)
 * [@diegoxter](https://github.com/diegoxter)
 
 ## Contact
