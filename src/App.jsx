@@ -20,10 +20,12 @@ function App() {
           </li>
         </ul>
       </nav>
-
       <div className="container">
         <Outlet />
       </div>
+      <footer>
+        <>© 2024 Sense Development</>
+      </footer>
     </div>
   );
 }
