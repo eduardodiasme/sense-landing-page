@@ -82,3 +82,15 @@ form h3 {
   height: 460px;
   border-radius: 7%;
 }
+
+.sam {
+  position: fixed;
+  bottom: 15px;
+  right: 50px;
+  z-index: 999;
+}
+
+.sam img {
+  width: 40px;
+  height: 40px;
+}

@@ -2,7 +2,7 @@ export default function Contato() {
   return (
     <>
       <div className="contact-container">
-        <img src="/public/img-contact.png" />
+        <img src="/public/contact-img.png" />
         <form>
           <h3>Seu nome</h3>
           <input type="text" placeholder=" " />
