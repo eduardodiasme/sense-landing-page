@@ -1,7 +1,8 @@
 export default function Contato() {
   return (
     <>
-      <div>
+      <div className="contact-container">
+        <img src="/public/img-contact.png" />
         <form>
           <h3>Seu nome</h3>
           <input type="text" placeholder=" " />

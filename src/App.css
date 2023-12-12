@@ -68,3 +68,17 @@ form h3 {
   height: 120px;
   line-height: ;
 }
+
+.contact-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+  margin-right: 12rem;
+}
+
+.contact-container > img {
+  width: 500px;
+  height: 460px;
+  border-radius: 7%;
+}
