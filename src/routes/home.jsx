@@ -10,7 +10,7 @@ export default function Home() {
           deixe a tecnologia a Sense.
         </h1>
         <Link to="/contato">
-          <button>Entrar em contato</button>
+          <button>Entre em contato</button>
         </Link>
       </div>
       <img src="/public/sam.png" />
