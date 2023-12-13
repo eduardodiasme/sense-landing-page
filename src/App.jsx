@@ -6,7 +6,7 @@ function App() {
     <div>
       <nav className="navbar">
         <NavLink to="/">
-          <img className="logo" src="/public/logo.png" />
+          <img className="logo" src="/logo.png" />
         </NavLink>
         <ul>
           <li>
