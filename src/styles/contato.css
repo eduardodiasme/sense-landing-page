@@ -1,0 +1,27 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 480px;
+}
+
+form input {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  border-style: none;
+}
+
+form h3 {
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  font-weight: 200;
+}
+
+.button {
+  background-color: #535bf2;
+}
+
+.comentario {
+  height: 120px;
+}

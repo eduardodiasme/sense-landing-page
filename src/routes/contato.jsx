@@ -1,7 +1,8 @@
+import '../styles/contato.css';
+
 export default function Contato() {
   return (
     <>
-      <div className="contact-container">
         <img src="/public/contact-img.png" />
         <form>
           <h3>Seu nome</h3>
@@ -12,7 +13,6 @@ export default function Contato() {
           <input type="text" placeholder="" className="comentario" />
           <input type="button" value="Enviar" className="button" />
         </form>
-      </div>
     </>
   );
 }
