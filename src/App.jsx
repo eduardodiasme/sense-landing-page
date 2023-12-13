@@ -1,19 +1,19 @@
 import "./App.css";
-import { Outlet, Link } from "react-router-dom";
+import { Outlet, NavLink } from "react-router-dom";
 
 function App() {
   return (
     <div>
-      <nav>
-        <Link to="/">
+      <nav className="navbar">
+        <NavLink to="/">
           <img className="logo" src="/public/logo.png" />
-        </Link>
+        </NavLink>
         <ul>
           <li>
-            <Link to={`/sobre`}>Sobre</Link>
+            <NavLink to={`/sobre`}>Sobre</NavLink>
           </li>
           <li>
-            <Link to={`/contato`}>Contato</Link>
+            <NavLink to={`/contato`}>Contato</NavLink>
           </li>
         </ul>
       </nav>

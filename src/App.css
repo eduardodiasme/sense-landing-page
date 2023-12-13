@@ -29,6 +29,16 @@ nav li {
   margin-right: 2rem;
 }
 
+nav li a {
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+
+  &:hover {
+    color: aliceblue;
+  }
+}
+
 footer {
   display: flex;
   justify-content: space-around;
@@ -38,8 +48,6 @@ footer {
   width: 100%;
   margin-bottom: 1rem;
 }
-
-
 
 .sam {
   position: fixed;
@@ -57,4 +65,8 @@ footer {
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+
+.navbar a.active {
+  color: rgb(255, 255, 255);
 }

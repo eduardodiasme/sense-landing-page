@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "../styles/home.css";
 
 export default function Home() {
@@ -8,7 +9,9 @@ export default function Home() {
           Cuide do seu negócio, <br />
           deixe a tecnologia a Sense.
         </h1>
-        <button>Entrar em contato</button>
+        <Link to="/contato">
+          <button>Entrar em contato</button>
+        </Link>
       </div>
       <img src="/public/sam.png" />
     </>

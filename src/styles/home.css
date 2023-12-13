@@ -6,3 +6,13 @@
 .container-text {
   text-align: left;
 }
+
+.container-text button {
+  background-color: #535bf2;
+  transition: background-color 0.3s, color 0.3s;
+
+  &:hover {
+    background-color: #ffffff;
+    color: #535bf2;
+  }
+}
